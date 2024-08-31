@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT/Apache-2.0"
 repository = "https://github.com/squill-app/loose-sqlparser-wasm"
+description = "A wasm wrapper for the loose-sqlparser crate"
 
 [lib]
 crate-type = ["cdylib"]
